@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body.borders {
+    background-color: orange;
+}
+
+
+
+   
+
+
+
+
+aside {
+    height: 455px;
+   
+}
+
+
+
+.borders {
+    background-size: 1px;
+    border: 3px solid black;
+    margin: 10px;
+    background-color: white;
+    border-radius: 1%;
+    background-position: left;
+    padding: 30px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: right;
+    width: 50%;
+
+}
+
+.clear {
+    clear: both;
+}
+
+footer {
+    height: 100px;
+    width: 100px;
+}
+
+footer a {
+    font-size: 42px;
+
+}
+
+nav a {
+    font-size: 42px;
+
+}
+i{font-size: 42px;}
